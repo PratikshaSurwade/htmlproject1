@@ -1,0 +1,22 @@
+h1
+{
+    margin: 0px;
+    margin-bottom: 0px;
+}
+h3{
+    margin-top: 30px;
+}
+#copy-right{
+    margin-top: 0px;
+}
+.code{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#660000;
+}
+.code1{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.code2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
